@@ -33,7 +33,7 @@ tokio = { version = "1.20.0", features = ["full"] }
 # tower examples
 tower = { version = "0.4.13", features = ["full"] }
 http = "0.2.8"
-hyper = { version = "0.14.20", features = ["full"] }
+hyper = { version = "1.2.0", features = ["full"] }
 rand = "0.7.3"
 bytes = "1.2.0"
 argh = "0.1.8"
